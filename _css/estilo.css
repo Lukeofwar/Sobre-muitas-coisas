@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+p {
+    text-align: justify;
+    text-indent: 23px;
+  }
+
+  div#interface {
+      width: 800px;
+      margin: 10px 10px 10px 100px ;
+  }
