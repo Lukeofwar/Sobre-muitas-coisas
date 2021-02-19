@@ -6,4 +6,4 @@ um jogo que eu particularmente gosto muito, e que para iniciantes pode se tornar
 então que tal começar agora ?
 
 
-![como vai](https://github.com/Lukeofwar/Sobre-muitas-coisas/blob/main/72a3a1a39d84cb3305a0de4b16bdd7fc.gif)
+![como vai](https://github.com/Lukeofwar/Sobre-muitas-coisas/blob/main/giphy.gif)
