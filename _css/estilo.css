@@ -1,11 +1,41 @@
-@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
+
+body {
+  
+  
+}
+
 
 p {
     text-align: justify;
     text-indent: 23px;
   }
 
-  div#interface {
-      width: 800px;
-      margin: 10px 10px 10px 100px ;
+  div#interface {   
+    width: 900px;
+    margin: -10px auto -0 auto;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px;
+    font-family: 'Benne', serif;
+    background-color: rgb(238, 238, 238);
   }
+
+/*Formatação do menu*/
+
+nav#menu {
+  display: block;
+}
+
+nav#menu ul {
+     list-style: none;
+     text-transform: uppercase;
+     position: absolute;
+     top: -20px;
+     left: 700px;
+}
+nav#menu li {
+     display: inline-block;
+     background-color: darkgrey;
+     padding: 1px;
+     margin: 2;
+}
