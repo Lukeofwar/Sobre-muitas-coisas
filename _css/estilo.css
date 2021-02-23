@@ -39,3 +39,6 @@ nav#menu li {
      padding: 1px;
      margin: 2;
 }
+nav#menu li:hover {
+  color: antiquewhite;
+}
