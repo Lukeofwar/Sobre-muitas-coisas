@@ -1,11 +1,15 @@
 @charset "UTF-8";
 
+body {
+    font-family: 'Benne', serif;
+}
 ul#album-fotos {
     width: 700px;
     margin: 0 auto;
     padding: 50px;
     overflow: hidden;
     list-style: none;
+    
 }
 
 ul#album-fotos li {
@@ -78,3 +82,22 @@ ul#album-fotos li#foto_4 {
         background-position: 0px 0px;
         background-size: 200px 200px;
         }
+
+        .wrapper h1 {
+            text-align: center;
+            font-size: 30px;
+        }
+        .img-area {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+        }
+        .single-img {
+            padding: 0 20px 20px;
+        }
+        img:hover {
+            opacity: .5;
+            transition: .9s;
+        }        

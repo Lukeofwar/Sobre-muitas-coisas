@@ -41,4 +41,12 @@ nav#menu li {
 }
 nav#menu li:hover {
   color: antiquewhite;
+  background-color: rgb(146, 151, 151) ;
+  transition: background-color .6s;
+  
 }
+  nav#menu a {
+   
+    color: rgb( 75, 75, 75);
+    text-decoration: none ;
+  }

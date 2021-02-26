@@ -1,0 +1,26 @@
+<nav id="menu">
+  <ul type="disc">
+    <li><a href="home.html">home</a></li>
+    <li><a href="dicas.html">Dicas</a></li>
+    <li><a href="galeria.html">galeria</a></li>
+  </ul>
+  </nav>
+
+
+
+
+  <ul id="album-fotos">
+  <li id="foto_1"><span>Atacando em mapa com água</span> </li>
+  <li id="foto_2"><span>atacando civilização totalmente diferente</span></li>
+  <li id="foto_3"><span>lutando cara a cara quem vence</span></li>
+  <li id="foto_4"><span>lutando em um tipo de ácropole</span></li>
+  
+</ul>
+
+
+
+
+<li id="foto_1"><span>Atacando em mapa com água</span> </li>
+  <li id="foto_2"><span>atacando civilização totalmente diferente</span></li>
+  <li id="foto_3"><span>lutando cara a cara quem vence</span></li>
+  <li id="foto_4"><span>lutando em um tipo de ácropole</span></li>
