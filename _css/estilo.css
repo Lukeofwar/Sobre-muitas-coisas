@@ -1,9 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
 
+
+#main {
+  max-width: 350px;  
+  margin: -0 auto;
+}
+img {
+    max-width: 100%;
+}
 body {
   
   font-family: 'Benne', serif;
 }
+
+
 
 
 p {

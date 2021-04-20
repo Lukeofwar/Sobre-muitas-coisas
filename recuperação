@@ -8,6 +8,18 @@
 
 
 
+  <center><img src="_imagens/img_5.jpg" width="300px"></center>
+
+
+<script>
+   
+var nome =prompt('Qual o seu nome?');
+
+  alert('bem vindo(a) ' + nome)
+
+
+         alert('parabéns você chegou até aqui');
+</script>
 
   <ul id="album-fotos">
   <li id="foto_1"><span>Atacando em mapa com água</span> </li>
