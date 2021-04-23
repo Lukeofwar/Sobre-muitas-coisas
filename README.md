@@ -1,4 +1,4 @@
-# Dicas De Age Of Empires 2 definitive edition
+# Dicas De Age Of Empires 2 Definitive edition
 
 Nesse pequeno site que estou fazendo vou falar sobre algumas técnicas de
 um jogo que eu particularmente gosto muito, e que para iniciantes pode se tornar um "bicho de sete cabeças".
