@@ -5,7 +5,7 @@ um jogo que eu particularmente gosto muito, e que para iniciantes pode se tornar
 
 ## Vou falar sobre muitas coisas
 
-desde as coisas mais simples como ter uma boa economia até
+Desde as coisas mais simples como ter uma boa economia até
 ter um exército destruidor com todo tipo de evolução
 então fique ligado que o site vai começar.
 
