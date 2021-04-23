@@ -1,6 +1,6 @@
 # Dicas de age of empires 2 definitive edition
 
-nesse pequeno site que estou fazendo vou falar sobre algumas técnicas de
+Nesse pequeno site que estou fazendo vou falar sobre algumas técnicas de
 um jogo que eu particularmente gosto muito, e que para iniciantes pode se tornar um "bicho de sete cabeças".
 
 ## Vou falar sobre muitas coisas
