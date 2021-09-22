@@ -22,11 +22,10 @@ p {
   }
 
   div#interface {   
-    width: 900px;
-    margin: -10px auto -0 auto;
+    margin: -8px -8px -8px -8px;
     box-shadow: 0px 0px 10px black;
     padding: 10px;
-    background-color: rgb(238, 238, 238);
+    background-image: linear-gradient(to right, rgb(14, 204, 211), rgb(6, 34, 158));
   }
 
 /*Formatação do menu*/
@@ -58,5 +57,8 @@ nav#menu li:hover {
    
     color: rgb( 75, 75, 75);
     text-decoration: none ;
+  }
+  div#main {
+    width: 800px;
   }
 
